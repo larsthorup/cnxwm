@@ -1,1 +1,1 @@
-discard session
+discard session and invalidate cache
