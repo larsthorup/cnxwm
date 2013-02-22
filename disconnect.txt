@@ -1,1 +1,1 @@
-discard the session and invalidate every cache and redirect user to my home page
+discard the session and invalidate every cache and redirect user to my start page
